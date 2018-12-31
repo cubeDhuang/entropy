@@ -1,4 +1,4 @@
-# entropy
+# Colonizer
 
 ## Project setup
 ```
